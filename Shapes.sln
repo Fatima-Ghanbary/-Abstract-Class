@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{9B39C5D7-B740-4ADA-A77B-33E1ADCD85A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateShapesViaAbstract", "Shapes\CalculateShapesViaAbstract.csproj", "{9B39C5D7-B740-4ADA-A77B-33E1ADCD85A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateShapesInInterface", "CalculateShapesInInterface\CalculateShapesInInterface.csproj", "{73ACC6FE-2C20-426F-969C-F9AF240159C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateShapesViaInterface", "CalculateShapesInInterface\CalculateShapesViaInterface.csproj", "{73ACC6FE-2C20-426F-969C-F9AF240159C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
